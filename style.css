@@ -46,6 +46,7 @@ margin-right: auto;
 .hangingindent {
   padding-left: 22px ;
   text-indent: -22px ;
+  text-align: left;
 }
 
 .generalMentalHealthInformation {
